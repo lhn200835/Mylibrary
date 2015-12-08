@@ -271,6 +271,13 @@
     项目地址：https://github.com/ManuelPeinado/GlassActionBar
     Demo地址：https://play.google.com/store/apps/details?id=com.manuelpeinado.glassactionbardemo
     APP示例：google music
+    
+    ToolbarPanel
+    一个可以向下滑动展开一个 Panel 的 Toolbar，它的灵感来自于 Drawerlayout。
+    https://github.com/NikoYuwono/ToolbarPanel
+    
+    
+    
 三、Menu
 
     MenuDrawer
@@ -529,6 +536,11 @@
 
 六、ImageView
 
+  BlurImageView
+  一个可以由模糊慢慢渐近显示为清晰图的控件
+  https://github.com/wingjay/BlurImageView
+
+
     PhotoView
     支持双击或双指缩放的ImageView，在ViewPager等Scrolling view中正常使用，相比上面的AndroidTouchGallery，不仅支持ViewPager，同时支持单个ImageView
     项目地址：https://github.com/chrisbanes/PhotoView
@@ -583,6 +595,11 @@
     可以自定义各种形状的ImageView, 并且支持边框
     项目地址：https://github.com/siyamed/android-shape-imageview
     效果图：
+
+    BadgedImageview
+    一个支持在图片上显示一个徽章的ImageView。
+    https://github.com/yesidlazaro/BadgedImageview
+
 
     TextDrawable
     一个用于生成带有文本或者字母的图片的轻量级库。扩展自Drawable，因此可用于现有/自定义/网络等ImageView类，并且包含一个流接口用于创建drawables以及一个定制的ColorGenerator
@@ -901,6 +918,11 @@
     项目地址：https://github.com/saiwu-bigkoo/Android-PickerView
     效果图：Renderings
 
+AgendaCalendarView
+一款在日历和议事日程间添加简易导航效果的 Android 控件。
+https://github.com/Tibolte/AgendaCalendarView
+
+
 十一、TipView
 
 包括Toast、角标、UndoBar等提示性控件
@@ -1101,7 +1123,16 @@
     项目地址：https://github.com/chrisbanes/cheesesquare
     效果图：Renderings
 十六、其他
+   BiuEditText 
+   https://github.com/xujinyang/BiuEditText
+   一个带有飞入输入框动画效果的，有趣的BiuEditText
 
+    android-card-slide-panel
+    模仿探探首页卡片左右滑动效果，滑动流畅，卡片view无限重生.
+    https://github.com/xmuSistone/android-card-slide-panel
+ 
+    
+    
     SwipeBackLayout
     左右或向上滑动返回的Activity
     项目地址：https://github.com/Issacw0ng/SwipeBackLayout
@@ -1898,7 +1929,14 @@ orm的db工具类，简化建表、查询、更新、插入、事务、索引的
     (5) 比较两个zip包等功能
 
 十三、其他
-
+     MaterialColdStart
+     一个增强冷启动体验的库。
+     https://github.com/DreaminginCodeZH/MaterialColdStart
+     
+     Search-View-Layout
+     一个模仿5.0系统拨号器搜索联系人效果的搜索视图布局。
+     https://github.com/sahildave/Search-View-Layout
+     
     Salvage view
     带View缓存的Viewpager PagerAdapter，很方便使用
     项目地址：https://github.com/JakeWharton/salvage
